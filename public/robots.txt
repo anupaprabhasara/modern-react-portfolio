@@ -1,4 +1,10 @@
 User-agent: *
-Allow: /
+Disallow: /
 
-Sitemap: /sitemap.xml
+Allow: /$
+Allow: /about
+Allow: /projects
+Allow: /experience
+Allow: /contact
+
+Sitemap: https://www.anupa.lk/sitemap.xml
